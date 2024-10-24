@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class nomor2 {
+public class Nomor2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int omzetBeliau = 0, omzetMereka = 0, omzetKita = 0, totalTrip = 0;
